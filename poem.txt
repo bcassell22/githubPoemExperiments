@@ -1,12 +1,12 @@
 A crap poem. With twigs! And Fish!
 
-Line 1
-Line 2
+Line one
+Line two
 Line three
-Line 4
-Line 5
-Line 6
-Line 6.2
+Line four
+Line five
+Line six
+Line six point two
 This poem...
 ...is crap!
 But it has a twig:  ---<__
