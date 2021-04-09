@@ -1,4 +1,4 @@
-A crap poem. With twigs! And Fish!
+A crap poem. With twigs! And Fish! But no dogs.
 
 Line 1
 Line 2
@@ -14,3 +14,4 @@ And some fish:
   >()   >() >()
 ()<   ()< ()<
    >()     >()
+Because dogs are hard to draw.
