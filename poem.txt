@@ -5,7 +5,7 @@ Line 2
 Line three
 Line 4
 Line 5
-line 6
+Line 6
 Line 6.2
 This poem...
 ...is crap!
