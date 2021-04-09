@@ -1,4 +1,4 @@
-A crap poem. With twigs!
+A crap poem. With twigs! And Fish!
 
 Line 1
 Line 2
@@ -10,3 +10,7 @@ Line 6.2
 This poem...
 ...is crap!
 But it has a twig:  ---<__
+And some fish:
+  >()   >() >()
+()<   ()< ()<
+   >()     >()
